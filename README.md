@@ -89,9 +89,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elcan-ali&" alt="elcan-ali" /></p>
   
 
-            <p>&nbsp;<img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=elcan-ali&show_icons=true&locale=en" alt="elcan-ali" />
-        </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elcan-ali&show_icons=true&locale=en" alt="elcan-ali" /></p>
+
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="60%"
