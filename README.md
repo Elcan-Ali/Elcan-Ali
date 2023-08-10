@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next Js, Micro Frontend**
 
-- 💬 Ask me about **Ract, MERN**
+- 💬 Ask me about **React, MERN**
 
 - 📫 How to reach me **elcan.aliyev.web@gmail.com**
 
